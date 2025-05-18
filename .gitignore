@@ -1,3 +1,8 @@
 ./SorcerousLands/.vs/
 ./SorcerousLands/SorcerousLands/bin/
 ./SorcerousLands/SorcerousLands/obj/
+**/.vs/
+**/bin/
+**/obj/
+*.user
+*.suo
