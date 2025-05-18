@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 ﻿Game/.vs/
 Game/SorcerousLands/bin/
 Game/SorcerousLands/obj/
+=======
+./SorcerousLands/.vs/
+./SorcerousLands/SorcerousLands/bin/
+./SorcerousLands/SorcerousLands/obj/
+>>>>>>> 64e129fcbfbfb3f52ac2ee677ff56c691e78051c
 **/.vs/
 **/bin/
 **/obj/

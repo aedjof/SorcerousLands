@@ -1,4 +1,4 @@
-﻿using OpenTK.Windowing.Desktop;
+using OpenTK.Windowing.Desktop;
 
 namespace SorcerousLands
 {
