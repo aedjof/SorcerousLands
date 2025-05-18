@@ -39,10 +39,7 @@
 			Margin = new Padding(4);
 			MinimumSize = new Size(800, 600);
 			Name = "SorcerousLands";
-			SizeGripStyle = SizeGripStyle.Show;
-			StartPosition = FormStartPosition.CenterScreen;
 			Text = "Колдовские земли.";
-			TransparencyKey = Color.Transparent;
 			ResumeLayout(false);
 		}
 

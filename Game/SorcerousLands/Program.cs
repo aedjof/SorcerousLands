@@ -1,4 +1,4 @@
-namespace SorcerousLands
+﻿namespace SorcerousLands
 {
     internal static class Program
     {
